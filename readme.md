@@ -64,3 +64,6 @@ A bash script to change WordPress domain names safely and efficiently across you
 - Always backup your database before running
 - Ensure proper database permissions
 - Run from WordPress root directory
+
+# License 📄
+This project is licensed under the GNU General Public License v2.0
