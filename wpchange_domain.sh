@@ -44,7 +44,7 @@ if [[ $1 == "-h" ]] || [[ $1 == "--help" ]]; then
 fi
 
 V='1.2'
-URL=''
+URL='https://raw.githubusercontent.com/percioandrade/wpchangedomain/refs/heads/main/wpchange_domain.sh'
 
 # Skip version check
 if [[ " $* " == *" -n "* || " $* " == *" --noversion "* ]]; then
