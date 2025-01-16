@@ -3,8 +3,6 @@ WordPress Change Domain Script 🔄
 # About 📝
 A bash script to change WordPress domain names safely and efficiently across your database.
 
-A bash script to change WordPress domain names safely and efficiently across your database.
-
 - Author 👨‍💻
 - Percio Andrade
 - Email: percio@zendev.com.br
